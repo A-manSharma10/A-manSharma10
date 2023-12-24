@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-mansharma10" alt="a-mansharma10" /></a> </p>
 
-- 🔭 I’m currently working on **myself.**
+- 🔭 I’m currently working on **building new projects.**
 
-- 🌱 I’m currently learning **react.**
+- 🌱 I’m currently learning **java script.**
 
 - 👯 I’m looking to collaborate on **cool projects.**
 
-- 🤝 I’m looking for help with **C++.**
+- 🤝 I’m looking for help with **java.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/A-manSharma10](https://github.com/A-manSharma10)
 
-- 💬 Ask me about **nothing.**
+- 💬 Ask me about **C++,python,DBMS.**
 
 - 📫 How to reach me **amn.10.sharma@gmail.com**
 
